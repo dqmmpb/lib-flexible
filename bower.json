@@ -1,7 +1,7 @@
 {
   "name": "lib.flexible",
+  "version": "0.1.0",
   "description": "移动端自适应方案",
-  "main": "",
   "authors": [
     "amfe https://github.com/amfe",
     "dqmmpb https://github.com/dqmmpb"
